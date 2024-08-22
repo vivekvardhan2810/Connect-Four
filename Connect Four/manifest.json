@@ -1,0 +1,21 @@
+{
+    "name": "Connect Four",
+    "short_name": "Connect4",
+    "description": "A classic two-player game where players take turns dropping colored discs into a grid. The goal is to be the first to form a line of four discs horizontally, vertically, or diagonally.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#87CEFA",
+    "theme_color": "#87CEFA",
+    "icons": [
+      {
+        "src": "/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }  
